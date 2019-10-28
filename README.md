@@ -1,1 +1,1 @@
-# Algorihtm_Trading_with_Chicken
+# 2019_Autumn_Algorithm_Trading
