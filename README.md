@@ -1,4 +1,4 @@
-# 2019_Autumn_Algorithm_Trading
+# Winner Winner Chicken Dinner!
 
 ## References
 
