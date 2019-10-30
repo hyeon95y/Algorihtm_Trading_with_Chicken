@@ -40,7 +40,7 @@
 
 ## References
 
-- [파이썬으로 배우는 알고리즘 트레이딩 : wikidocs](https://wikidocs.net/book/110)
+- 파이썬으로 배우는 알고리즘 트레이딩 : wikidocs](https://wikidocs.net/book/110)
 - [Weight Agnostic NN : Blog](https://weightagnostic.github.io)
 - [Weight Agnostic NN : GitHub](https://github.com/weightagnostic/weightagnostic.github.io)
 - [Weight Agnostic NN : GItHub, Release](https://github.com/google/brain-tokyo-workshop/tree/master/WANNRelease)

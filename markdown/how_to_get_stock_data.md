@@ -34,5 +34,5 @@
 
 - [VirtualBox 브릿지를 이용한 ssh 원격접속](https://hongku.tistory.com/75?category=804536)
 - [Virtualbox를 활용하여 맥에서 윈도우10 사용](http://www.itworld.co.kr/print/94916)
-- [Windows 10 이미지 다운로드]()
+- [Windows 10 이미지 다운로드](https://www.microsoft.com/ko-kr/software-download/windows10ISO)
 
