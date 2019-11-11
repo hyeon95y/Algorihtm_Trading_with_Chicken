@@ -1,4 +1,4 @@
-# Winner Winner Chicken Dinner!
+# Finedust knows
 
 ## Abstract
 
