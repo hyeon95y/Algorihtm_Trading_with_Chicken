@@ -1,4 +1,4 @@
-# Finedust knows
+# Algorithm Trading with Steel and Dust
 
 ## Abstract
 
