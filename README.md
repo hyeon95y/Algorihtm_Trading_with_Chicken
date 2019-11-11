@@ -30,11 +30,11 @@
 <img src="img/9.png" width="800">
 <img src="img/10.png" width="800">
 
-- Algorithms that generate revenue even though selected sectors do not show any particular upward trend within the validation period
-- Most of the profits are coming from the dead cat bounce at the downhill
-- High profit is expected while having low expected Max. Drawdown
+- Algorithms that **generate revenue even though selected sectors do not show any particular upward trend within the validation period
+- Most of the **profits are coming from the dead cat bounce at the downhill**
+- **High profit** is expected while having **low expected Max. Drawdown**
 - Max. Drawdown is approximately 10% of Max. Profit
-- Algorithms that catch 15-15% profitable transactions
+- Algorithms that **catch 15-15% profitable transactions**
 - On the other hand, if you're losing money, you're up to 10%, which is much less than your 15-20% profit and less frequent
 
 ## References
